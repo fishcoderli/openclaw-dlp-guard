@@ -59,6 +59,6 @@ SENSITIVE\_KEYWORDS = {
 
 你可以直接在终端或 Google Colab 中运行测试脚本 / Run the test script directly in terminal or Colab:
 
-cd tests
-python colab\_test\_dlp.py
+
+python colab_test_dlp.py
 
